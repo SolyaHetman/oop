@@ -1,4 +1,4 @@
-package SolomiaHetman_OOPJAVA_10;
+package solomiaHetman_OOPJAVA_10;
 
 public class Agency {
 
